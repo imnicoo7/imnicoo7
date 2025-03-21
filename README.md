@@ -4,7 +4,7 @@ Soy Ingeniero de Sistemas con experiencia en **Python** y **Análisis de Datos**
 
 ### 🌍 Conéctate conmigo:
 - 📧 Correo: [nicolasgutierrez029@gmail.com](mailto:nicolasgutierrez029@gmail.com)
-- 🌐 LinkedIn: [Nicolás Gutierrez](https://www.linkedin.com/in/imnicoo/)
+- 🌐 LinkedIn: [Nicolas Gutierrez](https://www.linkedin.com/in/imnicoo/)
 
 ### 🌱 Mis habilidades:
 - **Lenguajes**: Python, JavaScript, SQL
