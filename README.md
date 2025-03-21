@@ -1,16 +1,7 @@
 <p align="center">
  <img src="https://github.com/imnicoo7/Imnicoo/blob/main/Data%20Analyst%20Linkedin%20Background%20.png" alt="drawing" width="900" />
 </p>
-
-# ¡Hola! Soy Nicolas 👋👩🏽‍💻
-
-Soy Ingeniero de Sistemas con experiencia en **Python** y **Análisis de Datos**. Me encanta aprender, experimentar y enfrentar nuevos retos.
 ---
-
-### 🌱 Mis habilidades:
-- **Lenguajes**: Python, JavaScript, SQL
-- **Herramientas**: Git, Docker, Jupyter Notebooks, Streamlit
-- **Áreas de enfoque**: Ciencia de datos, análisis predictivo, automatización
 
 # ¡Hola! Soy Nicolás 👋👨‍💻
 
@@ -19,7 +10,7 @@ Soy **Ingeniero de Sistemas** especializado en **analítica de datos** y **trans
 Mi experiencia incluye proyectos donde he aplicado **metodologías ágiles** como **Scrum**, y he gestionado proyectos tanto de **análisis predictivo** como de **visualización de datos**. Me considero **proactivo**, con una fuerte orientación al **trabajo en equipo** y la **innovación**. Disfruto enfrentar desafíos complejos y aportar soluciones eficientes, tanto a nivel técnico como organizacional.
 
 Fuera del ámbito profesional, me gusta **cocinar** y jugar al **fútbol**, actividades que refuerzan mi creatividad y mi capacidad para trabajar en equipo.
-
+---
 ### Mis habilidades clave:
 - **Lenguajes**: Python, SQL
 - **Nube**: AWS, Azure, GCP, Databricks
