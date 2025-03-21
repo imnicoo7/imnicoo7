@@ -1,7 +1,7 @@
 ### Buenassss, Soy Nico 👩🏽‍💻
 
 <p align="center">
- <img src="https://github.com/imnicoo7/Imnicoo/blob/main/Data%20Analyst%20Linkedin%20Background%20.png" alt="drawing" width="600" />
+ <img src="https://github.com/imnicoo7/Imnicoo/blob/main/Data%20Analyst%20Linkedin%20Background%20.png" alt="drawing" width="900" />
 </p>
 
 You can findme 🌎:
