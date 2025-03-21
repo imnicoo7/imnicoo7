@@ -1,4 +1,4 @@
-# ¡Hola! Soy Nicolás 👋
+# ¡Hola! Soy Nicolas 👋👩🏽‍💻
 
 Soy Ingeniero de Sistemas con experiencia en **Python** y **Análisis de Datos**. Me encanta aprender, experimentar y enfrentar nuevos retos.
 
