@@ -2,7 +2,7 @@
  <img src="https://github.com/imnicoo7/Imnicoo/blob/main/Data%20Analyst%20Linkedin%20Background%20.png" alt="drawing" width="900" />
 </p>
 
-# ¡Hola! Soy Nicolás 👋👨‍💻
+# ¡Hola! Soy Nico 👩🏽‍💻🐱‍🏍
 
 Soy **Ingeniero de Sistemas** especializado en **analítica de datos** y **transformación de datos**. Me apasiona el aprendizaje continuo y la adaptabilidad a nuevos desafíos tecnológicos. A lo largo de mi carrera, he trabajado con **Python**, **SQL**, **Power BI**, y **herramientas en la nube** como **AWS**, **Azure** y **GCP**, lo que me ha permitido optimizar procesos de **ingesta** y **transformación de datos** (ETL).
 
